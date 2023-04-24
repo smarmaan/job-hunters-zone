@@ -1,0 +1,62 @@
+[
+  {
+    "id": "TDEG",
+    "icon": "../All Images/google.png",
+    "title": "Technical Database Engineer",
+    "CompanyName": "Google LLC",
+    "type": "Remote",
+    "time": "Full Time",
+    "location": "Dhaka, Bangladesh",
+    "salary": "100K - 150K"
+  },
+  {
+    "id": "SEN",
+    "icon": "../All Images/netflix.png",
+    "title": "Software Engineer",
+    "CompanyName": "Netflix",
+    "type": "Onsite",
+    "time": "Full Time",
+    "location": "Dhaka, Bangladesh",
+    "salary": "110K - 130K"
+  },
+  {
+    "id": "GJKL",
+    "icon": "../All Images/airbnb.png",
+    "title": "Software Engineer",
+    "CompanyName": "Airbnb",
+    "type": "Onsite",
+    "time": "Full Time",
+    "location": "Menlo Park, CA",
+    "salary": "130K - 160K"
+  },
+  {
+    "id": "BHDY",
+    "icon": "../All Images/tesla.png",
+    "title": "OS Developer",
+    "CompanyName": "Tesla",
+    "type": "Onsite",
+    "time": "Full Time",
+    "location": "Cupertino, CA",
+    "salary": "140K - 170K "
+  },
+  {
+    "id": "MNOP",
+    "icon": "../All Images/google.png",
+    "title": "Product Manager",
+    "CompanyName": "Google",
+    "type": "Remote",
+    "time": "Full Time",
+    "location": "Seattle, WA",
+    "salary": "120K - 150K "
+  },
+  {
+    "id": "QWER",
+    "icon": "../All Images/google.png",
+    "title": "Software Engineer",
+    "CompanyName": "Google",
+    "type": "Remote",
+    "time": "Full Time",
+    "location": "Mountain View, CA",
+    "salary": "140K - 170K "
+  }
+]
